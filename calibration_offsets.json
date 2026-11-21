@@ -1,0 +1,11 @@
+{
+  "offsets": {
+    "uv275_absorbance": 0.0,
+    "temperature": 0.0,
+    "visible_absorbance": 0.0,
+    "cod": 0.0,
+    "turbidity": 0.0
+  },
+  "enabled": true,
+  "last_calibration_time": "2026-04-16 21:17:49"
+}
